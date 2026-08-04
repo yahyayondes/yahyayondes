@@ -8,7 +8,7 @@ Uzun vadede iki şey peşindeyim. Birincisi, yapay zekayı spor dünyasıyla bir
 
 **Plasetech** — futbol için giyilebilir bir ürün geliştiriyorum; ML ve veri tarafı işin merkezinde. Şu anda aktif olarak üzerinde çalıştığım en somut proje bu.
 
-Bunun yanında, öğrenme sürecimin bir parçası olarak Kaggle veri setleri üzerinde klasik ML projeleri yapıyorum ve zamanla bunları spor analitiği temalı (F1 / futbol) projelere dönüştürmeyi hedefliyorum.
+Bunun yanında, öğrenme sürecimin bir parçası olarak Kaggle veri setleri üzerinde klasik ML projeleri yapıyorum ve zamanla bunları spor analitiği temalı (motor sporları / futbol) projelere dönüştürmeyi hedefliyorum.
 
 Diğer repolarım daha çok öğrenme sürecinde yazılım geliştirme pratiği yapmak için var.
 
