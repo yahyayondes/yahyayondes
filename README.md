@@ -1,18 +1,28 @@
-# Merhaba, ben Yahya
+# Hi there, I'm Eren Yahya Yöndeş 
 
-İstanbul Teknik Üniversitesi'nde Yapay Zeka ve Veri Mühendisliği okuyorum. Kendimi makine öğrenmesi ve veri bilimi alanında geliştiriyorum; şu anda temel algoritmalar ve klasik ML üzerine çalışıyor, zamanla derin öğrenme, NLP ve computer vision gibi alanlara doğru ilerlemeyi planlıyorum.
+**AI & Data Engineering Student at Istanbul Technical University (ITU)**  
+*Architecting intelligent systems, scalable data pipelines, and cross-platform AI-driven applications.*
 
-Uzun vadede iki şey peşindeyim. Birincisi, yapay zekayı spor dünyasıyla birleştirmek — özellikle motor sporları ve futbol tarafında veri odaklı çalışabilmek. İkincisi ise öğrendiklerimi köklü bir şirkette yapay zeka mühendisi olarak profesyonel düzeyde uygulamak. İkisi de birbirini besliyor.
+---
 
-## Üzerinde çalıştığım şeyler
+###  About Me
+I am an AI & Data Engineering student dedicated to transforming complex data challenges into robust, high-impact intelligent solutions. Combining strong mathematical foundations with modern software engineering practices, my core focus is mastering the full lifecycle of intelligent systems—from distributed big data processing to intuitive, AI-powered user applications.
 
-**Plasetech** — futbol için giyilebilir bir ürün geliştiriyorum; ML ve veri tarafı işin merkezinde. Şu anda aktif olarak üzerinde çalıştığım en somut proje bu.
+I leverage **AI-Assisted Development** workflows to accelerate engineering velocity, maintain clean architectural standards, and bridge the gap between heavy AI backends and seamless cross-platform frontends.
 
-Bunun yanında, öğrenme sürecimin bir parçası olarak Kaggle veri setleri üzerinde klasik ML projeleri yapıyorum ve zamanla bunları spor analitiği temalı (motor sporları / futbol) projelere dönüştürmeyi hedefliyorum.
+---
 
-Diğer repolarım daha çok öğrenme sürecinde yazılım geliştirme pratiği yapmak için var.
+### Core Focus & Roadmap
+-  **Machine Learning & Deep Learning:** Architecting end-to-end ML pipelines, feature stores, and deep neural networks.
+-  **NLP, LLMs & Retrieval Systems:** Developing agentic workflows, RAG architectures, and fine-tuning transformer models.
+-  **Computer Vision:** Designing visual perception models and real-time processing systems.
+-  **Cross-Platform AI Apps:** Building responsive, production-ready client applications using **Flutter & Dart**.
+-  **AI-Assisted Engineering:** Utilizing modern AI tooling to optimize debugging, refactoring, and rapid prototyping.
 
-## İletişim
 
-[LinkedIn](https://www.linkedin.com/in/erenyahyayondes/)
+---
 
+### Contact
+- **LinkedIn:** [linkedin.com/in/erenyahyayondes](https://linkedin.com/in/erenyahyayondes)
+- **GitHub:** [github.com/yahyayondes](https://github.com/yahyayondes)
+- **Email:** [eyahyayondes12@gmail.com](mailto:eyahyayondes12@gmail.com)
