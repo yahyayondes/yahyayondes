@@ -10,15 +10,6 @@ I am an AI & Data Engineering student dedicated to transforming complex data cha
 
 I leverage **AI-Assisted Development** workflows to accelerate engineering velocity, maintain clean architectural standards, and bridge the gap between heavy AI backends and seamless cross-platform frontends.
 
----
-
-### Core Focus & Roadmap
--  **Machine Learning & Deep Learning:** Architecting end-to-end ML pipelines, feature stores, and deep neural networks.
--  **NLP, LLMs & Retrieval Systems:** Developing agentic workflows, RAG architectures, and fine-tuning transformer models.
--  **Computer Vision:** Designing visual perception models and real-time processing systems.
--  **Cross-Platform AI Apps:** Building responsive, production-ready client applications using **Flutter & Dart**.
--  **AI-Assisted Engineering:** Utilizing modern AI tooling to optimize debugging, refactoring, and rapid prototyping.
-
 
 ---
 
